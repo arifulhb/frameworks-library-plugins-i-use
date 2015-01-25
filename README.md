@@ -4,8 +4,8 @@ List of Frameworks, Library and Plugins I use in my development.
 
 ## Frontend Frameworks
 * (Twitter Bootstrap)[http://getbootstrap.com] - The world's most popular mobile-first and responsive front-end framework.
-..* CDN: Complete CSS `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css`
-..* CDN: Complete Js `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
+...CDN: Complete CSS `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css`
+...CDN: Complete Js `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 * (Font Awesome)[http://fortawesome.github.io/Font-Awesome/] - Font Awesome, the iconic font and CSS toolkit
 ..* CDN: Font Awesome CSS: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 
