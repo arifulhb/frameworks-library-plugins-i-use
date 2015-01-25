@@ -12,6 +12,9 @@ CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 #### Frameworks
 - [Codeigniter](http://www.codeigniter.com) - Codeigniter Web Framework
 
+### CMS
+- [WordPress](https://wordpress.org) - Blog Tool, Publishing Platform, and CMS
+
 ### Library
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
