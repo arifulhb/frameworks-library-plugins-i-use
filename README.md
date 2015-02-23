@@ -1,15 +1,10 @@
 # Frameworks Library Plugins I use in work
 ####List of Frameworks, Library and Plugins I use in my development.
 
-## Frontend Frameworks
-- [Twitter Bootstrap](http://getbootstrap.com) - The world's most popular mobile-first and responsive front-end framework.<br/>
-CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css`<br/>
-Js CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - Font Awesome, the iconic font and CSS toolkit<br/>
-CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 
 ## PHP
 #### Frameworks
+- [Laravel](http://www.laravel.com) - The PHP Framework For Web Artisans
 - [Codeigniter](http://www.codeigniter.com) - Codeigniter Web Framework
 
 ### CMS
@@ -19,22 +14,39 @@ CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 - [PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 
 
+## Frontend Frameworks
+- [Twitter Bootstrap](http://getbootstrap.com) - The world's most popular mobile-first and responsive front-end framework.<br/>
+CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css`<br/>
+Js CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
+- [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - Font Awesome, the iconic font and CSS toolkit<br/>
+CSS CDN: `https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css`
+
 ## Javascript
 #### Frameworks
-- [jQuery](http://jquery.com) - Write less, do more<br/>
-jQuery CDN: `https://code.jquery.com/jquery-1.11.2.min.js`<br/>
-Google CDN: `https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js`<br/>
-- [jQuery UI](http://jqueryui.com) - jQuery User Interface<br/>
-Google CSS CDN:  `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css`<br/>
-Google JS CDN: `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js`<br/>
+* [AngularJs](http://angularjs.org) - HTML enhanced for web apps!<br/>
 
 #### Library
+* [jQuery](http://jquery.com) - Write less, do more<br/>
+jQuery CDN: `https://code.jquery.com/jquery-1.11.2.min.js`<br/>
+* [jQuery UI](http://jqueryui.com) - jQuery User Interface<br/>
+Google CSS CDN:  `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css`<br/>
+Google JS CDN: `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js`<br/>
 * [RequireJs](http://requirejs.org) - A JAVASCRIPT MODULE LOADER
 
+#### Plugins
+- ()[] - 
+
 ## Tools
+- [Git](http://git-scm.com) - --fast-version-control
+- [Vagrant](https://www.vagrantup.com) - Development environments made easy.
+- [Composer](https://getcomposer.org) - Dependency Manager for PHP.
+- [NPM](https://www.npmjs.com) - npm is the package manager for Nodejs, Javascript and many many things.
+- [Bower](http://bower.io) - A package manager for the web.
+- [Gulpjs](http://gulpjs.com) - Automate and enhance your workflow.
+
+## IDE and text editor
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE
 - [Sublime Text 2](http://www.sublimetext.com) - The text editor you'll fall in love with
-- [Vagrant](https://www.vagrantup.com) - Development environments made easy.
 
 ## Cloud Hosting
 - [DigitalOcean](https://www.digitalocean.com/?refcode=222128d61c99) - SSD Cloud Server, VPS Server, Simple Cloud Hosting
