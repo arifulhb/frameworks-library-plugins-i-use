@@ -16,10 +16,14 @@
 
 ## Frontend Frameworks
 - [Twitter Bootstrap](http://getbootstrap.com) - The world's most popular mobile-first and responsive front-end framework.<br/>
-CSS CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css`<br/>
-Js CDN: `//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js`
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/) - Font Awesome, the iconic font and CSS toolkit<br/>
-CSS CDN: `https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.css`
+
+## Frontend Templates
+- [HTML5 Boilerplate](https://github.com/h5bp/html5-boilerplate) - The web’s most popular front-end template<br/>
+- [Admin LTE](https://github.com/almasaeed2010/AdminLTE) - Free Premium Admin control Panel Theme That Is Based On Bootstrap 3.x<br/>
+- [WebArch](http://themeforest.net/item/webarch-responsive-admin-dashboard-template/6157416) - Responsive Admin Dashboard Template<br/>
+- [TODO](http://themeforest.net/item/todo-web-application-and-admin-panel-template/5458827) - Web Application and Admin Panel Template<br/>
+
 
 ## Javascript
 #### Frameworks
@@ -27,14 +31,10 @@ CSS CDN: `https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awe
 
 #### Library
 * [jQuery](http://jquery.com) - Write less, do more<br/>
-jQuery CDN: `https://code.jquery.com/jquery-1.11.2.min.js`<br/>
 * [jQuery UI](http://jqueryui.com) - jQuery User Interface<br/>
-Google CSS CDN:  `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css`<br/>
-Google JS CDN: `https://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/jquery-ui.min.js`<br/>
+* [Modernizr](http://modernizr.com) - the future detection library for HTML5 and CC3
 * [RequireJs](http://requirejs.org) - A JAVASCRIPT MODULE LOADER
 
-#### Plugins
-- ()[] - 
 
 ## Tools
 - [Git](http://git-scm.com) - --fast-version-control
