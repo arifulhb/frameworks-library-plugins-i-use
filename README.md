@@ -35,6 +35,9 @@
 * [Modernizr](http://modernizr.com) - the future detection library for HTML5 and CC3
 * [RequireJs](http://requirejs.org) - A JAVASCRIPT MODULE LOADER
 
+#### Plugins
+* [Messenger](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
+
 
 ## Tools
 - [Git](http://git-scm.com) - --fast-version-control
