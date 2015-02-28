@@ -51,6 +51,9 @@
 - [PhpStorm](https://www.jetbrains.com/phpstorm/) - The Most Intelligent PHP IDE
 - [Sublime Text 2](http://www.sublimetext.com) - The text editor you'll fall in love with
 
+#### IDE Plugins
+- [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - plugin for Sublime Text 2 & 3 editor to pretty json
+
 ## Cloud Hosting
 - [DigitalOcean](https://www.digitalocean.com/?refcode=222128d61c99) - SSD Cloud Server, VPS Server, Simple Cloud Hosting
 
