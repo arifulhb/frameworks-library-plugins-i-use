@@ -36,8 +36,10 @@
 * [jQuery UI](http://jqueryui.com) - jQuery User Interface<br/>
 * [Modernizr](http://modernizr.com) - the future detection library for HTML5 and CC3
 * [RequireJs](http://requirejs.org) - A JAVASCRIPT MODULE LOADER
+* [Parsley](http://parsleyjs.org) - the ultimate JavaScript form validation library.
 
 #### Plugins
+* [Raty](https://github.com/wbotelhos/raty) - A Star Rating Plugin
 * [moment](http://momentjs.com) - Parse, validate, manipulate, and display dates in javascript.
 * [Messenger](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 * [DataTables](http://www.datatables.net) - Table plug-in for jQuery.
