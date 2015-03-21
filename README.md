@@ -1,12 +1,12 @@
 # Frameworks Library Plugins I use in work
 ####List of Frameworks, Library and Plugins I use in my development.
 
-1. [PHP](#PHP)
-2. [Frontend](#Frontend)
-3. [Tools](#Tools)
-4. [Cloud Hosting](#Cloud-hosting)
+1. [PHP](#php)
+2. [Frontend](#frontend)
+3. [Tools](#tools)
+4. [Cloud Hosting](#cloud-hosting)
 
-## PHP
+### PHP
 #### Frameworks
 - [Laravel](http://www.laravel.com) - The PHP Framework For Web Artisans
 - [Codeigniter](http://www.codeigniter.com) - Codeigniter Web Framework
@@ -49,7 +49,7 @@
 * [DataTables](http://www.datatables.net) - Table plug-in for jQuery.
 
 
-## Tools
+### Tools
 - [Git](http://git-scm.com) - --fast-version-control
 - [Vagrant](https://www.vagrantup.com) - Development environments made easy.
 - [Composer](https://getcomposer.org) - Dependency Manager for PHP.
@@ -65,7 +65,7 @@
 - [SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - plugin for Sublime Text 2 & 3 editor to pretty json
 
 
-## Cloud Hosting
+### Cloud Hosting
 - [DigitalOcean](https://www.digitalocean.com/?refcode=222128d61c99) - SSD Cloud Server, VPS Server, Simple Cloud Hosting
 
 
