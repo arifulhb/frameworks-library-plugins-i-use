@@ -44,7 +44,9 @@
 
 #### Plugins
 * [Raty](https://github.com/wbotelhos/raty) - A Star Rating Plugin
+* [Unveil](http://luis-almeida.github.io/unveil/) - A very lightweight plugin to lazy load images for jQuery or Zepto.js
 * [moment](http://momentjs.com) - Parse, validate, manipulate, and display dates in javascript.
+* [pace](http://github.hubspot.com/pace/docs/welcome/) - Automatic page load progress bar.
 * [Messenger](http://github.hubspot.com/messenger/) - Client-side growl-like notifications with actions and auto-retry.
 * [DataTables](http://www.datatables.net) - Table plug-in for jQuery.
 
